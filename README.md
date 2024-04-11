@@ -17,7 +17,7 @@ Shape Property
 Complete binary tree
 
 Application of Heaps
-Priority Queues: Heaps are often utilized as a means of implementing priority queues. This allows for elements with higher priority to be extracted first, ensuring that the most important tasks are handled in a timely manner.
+Priority Queues: Heaps are often utilized as a means of implementing priority queues. This allows for elements with higher priority to be extracted first, ensuring that the most important tasks are handled promptly.
 
 Heapsort algorithm: It is used to handle large datasets  without slowing down
 
