@@ -14,7 +14,7 @@ DISADVANTAGES
 2. Not ideal for searching
 3. Memory management
 4. Complexity
-   
+  
 PROPERTIES
 
 1. Shape Property
